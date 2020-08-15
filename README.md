@@ -1,6 +1,11 @@
-# Cuby
+# Cuby V1 
+
+ I'm thinking about making a V2 , with all the ressources to allow everyone to build is own "Cuby"
  
-https://www.youtube.com/watch?v=G2LPFeRZkuo
+ Youtube link :
+          https://www.youtube.com/watch?v=G2LPFeRZkuo
+          
+ Some picture :
 
 ![](../master/Images/IMG_1.jpg)
 ![](../master/Images/IMG_2.jpg)
