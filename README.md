@@ -2,7 +2,7 @@
  
 https://www.youtube.com/watch?v=G2LPFeRZkuo
 
-![Optional Text](../master/Images/IMG_1.jpg)
+![](../master/Images/IMG_1.jpg)
 ![Optional Text](../master/Images/IMG_2.jpg)
 ![Optional Text](../master/Images/IMG_3.jpg)
 ![Optional Text](../master/Images/IMG_4.jpg)
