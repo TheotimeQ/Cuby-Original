@@ -40,10 +40,31 @@
  https://www.youtube.com/watch?v=G2LPFeRZkuo
           
 # Diagramme : 
- The PDF is in Cuby/Diagramme  
-
+ Look in Cuby/Diagramme ;)  
 
 # Some pictures :
 
-![](../master/Images/IMG_1.jpg)
+Cuby under construction (i haven't much picture about it sorry)  
+![](../master/Images/IMG_8.jpg)
+![](../master/Images/IMG_5.jpg)
+![](../master/Images/IMG_3.jpg)
+![](../master/Images/IMG_4.jpg)
+![](../master/Images/IMG_6.jpg)
+![](../master/Images/IMG_7.jpg)
+![](../master/Images/IMG_11.jpg)
+
+Wiring in progress  
+![](../master/Images/IMG_14.jpg)
+![](../master/Images/IMG_15.jpg)
+![](../master/Images/IMG_10.jpg)
+![](../master/Images/IMG_14.jpg)
+![The power distribution board](../master/Images/IMG_15.jpg)
+
+The final Cuby   
+![](../master/Images/IMG_19.jpg)
+![](../master/Images/IMG_21.jpg)
+![](../master/Images/IMG_16.jpg)
+![](../master/Images/IMG_18.jpg)
+![](../master/Images/IMG_13.jpg)
+![](../master/Images/IMG_12.jpg)
 
