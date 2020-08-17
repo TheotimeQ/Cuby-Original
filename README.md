@@ -5,7 +5,8 @@
  There is around 20 animation currently , feel free to commit your own ;)
  
  Youtube link (Watch Cuby in action):
-          https://www.youtube.com/watch?v=G2LPFeRZkuo
+ 
+ https://www.youtube.com/watch?v=G2LPFeRZkuo
      
  Cuby : 
  
@@ -34,9 +35,9 @@
  
 # How does it work ? 
 
- Because pictures are sometime better than words:
- Youtube link (The inside of cuby in action) : 
-          https://www.youtube.com/watch?v=G2LPFeRZkuo
+ Because pictures are sometime better than words (The inside of cuby in action) : 
+ 
+ https://www.youtube.com/watch?v=G2LPFeRZkuo
           
 # Diagramme : 
  The PDF is in Cuby/Diagramme
