@@ -2,6 +2,8 @@
  
  I was planning on doing my own version of the "Useless Box concept" , so i decided to create cuby. I started it in January 2020 and i finished the first version. But i'm planning on making a V2 with more stuff and a real tutoriel to allow anyone to make his own ;)
  
+ There is around 20 animation currently , feel free to commit your own ;)
+ 
  Youtube link (Watch Cuby in action):
           https://www.youtube.com/watch?v=G2LPFeRZkuo
      
