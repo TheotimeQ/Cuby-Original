@@ -12,8 +12,8 @@
  
 # What do you need to make your own :
  
- 1 Arduino Mega 
- 7 Servo ( SG90 9g )   
+ 1 Arduino Mega
+ 7 Servo ( SG90 9g )
  2 5v RGB led common anode
  1 Button-3-state (For the nose)
  1 Button-2-state (ON/OFF)
@@ -21,13 +21,14 @@
  5V Connector
  1 Empty PCB 
  
- (All the componants are in ...Images/Stuff if you are not sure about what you should buy)
+ (If you are not sure about what you should buy , look at Cuby/Images/Stuff )
  
  Some Solder
  Some Wood
  Some Screw
  Some Wire
  Some Header
+ 
  
 # How does it work ? 
 
@@ -36,6 +37,7 @@
           https://www.youtube.com/watch?v=G2LPFeRZkuo
           
 # Diagramme : 
+ The PDF is in Cuby/Diagramme
 
 
 # Some pictures :
