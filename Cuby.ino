@@ -12,6 +12,9 @@ Servo Oeil;
 Servo Bouche;
 Servo Drapeau;
 
+
+//truc
+
 //------Declaration Pins-----------------------
 
 const int NezDroitPin  = 26 ;   //Pin des Boutons du Nez
