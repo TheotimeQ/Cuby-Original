@@ -31,13 +31,6 @@
  Some Screw  
  Some Wire  
  Some Header  
- 
- 
-# How does it work ?   
-
- Because pictures are sometime better than words (The inside of cuby in action) :   
- 
- https://www.youtube.com/watch?v=G2LPFeRZkuo
           
 # Diagramme : 
  Look in Cuby/Diagramme ;)  
