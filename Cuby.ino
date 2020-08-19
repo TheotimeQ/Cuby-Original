@@ -11,16 +11,12 @@ Servo SourcilDroit;
 Servo Oeil;
 Servo Bouche;
 Servo Drapeau;
-//Test 
-
-
-//truc
 
 //------Declaration Pins-----------------------
 
-const int NezDroitPin  = 26 ;   //Pin des Boutons du Nez
+const int NezDroitPin  = 26 ;   //Noze pin
 const int NezGauchePin = 27 ;
-const int Rouge = 10 ;
+const int Rouge = 10 ;          //LED
 const int Vert = 11 ;
 const int Bleu = 12 ;
 
@@ -28,8 +24,6 @@ const int Bleu = 12 ;
 
 int EtatNezDroit   ;   //EtatBoutonNez
 int EtatNezGauche  ;
-int EtatFinDroit  ;   //EtatBouton de fin de course
-int EtatFinGauche ;
 int PositionBrasGauche = 117  ; // Stock la position des bras
 int PositionBrasDroit = 73 ;
 int ButDroit = 115 ;
@@ -68,7 +62,7 @@ void setup() {
   Couleur(0,150,150);
   Sourcil(126,30) ;
 
-  randomSeed(analogRead(0));
+  randomSeed(analogRead(0));  //Random seeed generation
 }
 
 //------Boucle---------------------------------
@@ -108,12 +102,12 @@ void loop() {
     NumAlea = 101 ;
   }
   
-  Serial.print("Count : ");
-  Serial.print(Count);
-  Serial.print("  Veille : ");
-  Serial.print(Veille);
-  Serial.print("  NumAlea : ");
-  Serial.println(NumAlea);
+  //Serial.print("Count : ");
+  //Serial.print(Count);
+  //Serial.print("  Veille : ");
+  //Serial.print(Veille);
+  //Serial.print("  NumAlea : ");
+  //Serial.println(NumAlea);
       
   switch (NumAlea) {
     
@@ -217,7 +211,7 @@ void loop() {
    case 5:
 
       Sourcil(140,180) ; 
-      Oeil.write(125); // 125 85
+      Oeil.write(125); 
       delay(500);
       
       Sourcil(140,140) ; 
@@ -630,7 +624,7 @@ void loop() {
    case 25:
 
       Sourcil(140,180) ; 
-      Oeil.write(125); // 125 85
+      Oeil.write(125); 
       delay(500);
       
       Sourcil(140,140) ; 
@@ -1084,11 +1078,6 @@ void loop() {
     // Sourcil(85,60) Enervé , Sourcil(170,0) étoné , Sourcil(126,30) normal
 
 }
-
-
-
-
-
 //--------------------------------------------------------------------------------------------------------------------------------
 //------------Daclaration fonction annexes-------------
 
@@ -1161,8 +1150,3 @@ void BougerBras(float PositionActuelGauche,float PositionFinalGauche,float Vites
   delay(10) ;
   }
  }
-
-
- 
-
- 
